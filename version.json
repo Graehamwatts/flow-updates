@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Free offline AI polish via Ollama (no API key needed), a Speak button that reads dictations aloud in any ElevenLabs voice including your own clone, and an MCP server so AI agents can use your dictations, meetings, and GPU transcription as tools."
+  "notes": "Flow now offers to record when Zoom or Teams starts, learns per-app writing styles you define, and quietly builds a local training dataset from your polishes for a future personal cleanup model."
 }
