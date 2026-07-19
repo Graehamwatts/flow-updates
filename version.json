@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Snippets (say a name, paste saved text), Action mode (hold F8 and ask for the text you want written), language selection with auto-detect, and a visible checkmark when your API key is saved."
+  "notes": "Cloud transcription option for computers without a gaming GPU (bring your own free Groq key), My Writing Style so polished text sounds like you, and four new sound sets."
 }
