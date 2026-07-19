@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Meeting mode: record any call with no bot and get a Me/Them transcript plus summary, all on your computer. Also: microphone picker with a test button, and polish that matches its tone to the app you are writing in."
+  "notes": "Free offline AI polish via Ollama (no API key needed), a Speak button that reads dictations aloud in any ElevenLabs voice including your own clone, and an MCP server so AI agents can use your dictations, meetings, and GPU transcription as tools."
 }
