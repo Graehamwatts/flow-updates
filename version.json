@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Custom hotkey picker, tray quick-history, voice commands (new line / new paragraph / scratch that), light/dark theme, and an auto-updater. Also fixes a Settings-window crash bug."
+  "notes": "Stability release: fixes missing sounds/icons in installed builds, prevents double-launch, validates custom hotkeys, hotkey changes now apply without restart."
 }
