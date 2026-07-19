@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Clicking the app icon while Flow Dictation is running now opens the dashboard."
+  "notes": "Visual overhaul: crisp high-DPI rendering, redesigned dashboard with stat cards, modern transcription list, refined dark and light themes."
 }
