@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.7.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Cloud transcription option for computers without a gaming GPU (bring your own free Groq key), My Writing Style so polished text sounds like you, and four new sound sets."
+  "notes": "Meeting mode: record any call with no bot and get a Me/Them transcript plus summary, all on your computer. Also: microphone picker with a test button, and polish that matches its tone to the app you are writing in."
 }
