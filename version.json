@@ -1,5 +1,5 @@
 {
-  "version": "1.3.3",
+  "version": "1.4.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Auto-polish mode: clean up every dictation automatically with your own AI key. Humanized polish style, and independent start/finish sound picks."
+  "notes": "Snippets (say a name, paste saved text), Action mode (hold F8 and ask for the text you want written), language selection with auto-detect, and a visible checkmark when your API key is saved."
 }
