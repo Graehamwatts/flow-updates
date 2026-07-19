@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Visual overhaul: crisp high-DPI rendering, redesigned dashboard with stat cards, modern transcription list, refined dark and light themes."
+  "notes": "New app window with sidebar navigation (Home, Dictionary, Settings, About), in-app dictionary editor, and multi-provider AI polish: Claude, DeepSeek, Kimi, or OpenAI with your own key."
 }
