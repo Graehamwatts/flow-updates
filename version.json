@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.11.1",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "New optional add-on: Identify speakers on meeting recordings, labeling each voice on the other side of the call (Speaker 1, Speaker 2...) instead of one flat Them. See training/setup_diarization.md for the one-time setup."
+  "notes": "Better explanation of the optional Identify speakers add-on right on the Meetings page - what it does, how big it is, and how it works."
 }
