@@ -1,5 +1,5 @@
 {
-  "version": "1.10.1",
+  "version": "1.11.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "The new dashboard now has sound previews and a Start with Windows toggle, closing the gap with the classic settings window."
+  "notes": "New optional add-on: Identify speakers on meeting recordings, labeling each voice on the other side of the call (Speaker 1, Speaker 2...) instead of one flat Them. See training/setup_diarization.md for the one-time setup."
 }
