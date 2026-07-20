@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Flow now offers to record when Zoom or Teams starts, learns per-app writing styles you define, and quietly builds a local training dataset from your polishes for a future personal cleanup model."
+  "notes": "Meeting auto-detect for Zoom and Teams, per-app writing styles, and groundwork for the new dashboard."
 }
