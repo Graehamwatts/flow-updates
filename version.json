@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0",
-  "url": "https://github.com/Graehamwatts/flow-updates/releases/latest",
-  "notes": "Each AI provider (Claude, DeepSeek, Kimi, OpenAI) now keeps its own separate API key, so switching between them no longer overwrites whatever key you had saved."
+  "version": "1.18.0",
+  "url": "https://github.com/Graehamwatts/flow-updates/releases/tag/v1.18.0",
+  "notes": "Google Meet now auto-detects the start AND end of a call for meeting recording, and each AI-polish provider keeps its own separate API key."
 }
