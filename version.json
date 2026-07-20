@@ -1,5 +1,5 @@
 {
-  "version": "1.11.2",
+  "version": "1.12.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Fixed: the Delete, Archive, and Identify speakers buttons on the Meetings page were nearly invisible due to a layout bug. Also a visual polish pass on the new dashboard."
+  "notes": "New option for meeting video: capture just the meeting window (Zoom/Teams/Webex) instead of the whole screen, using a modern capture method that correctly shows video content instead of a black rectangle."
 }
