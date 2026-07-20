@@ -1,5 +1,5 @@
 {
-  "version": "1.16.0",
-  "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "One app, one UI now: Settings, Meetings, Podcast, and everything else all live in a single dashboard opened from the tray icon."
+  "version": "1.17.0",
+  "url": "https://github.com/Graehamwatts/flow-updates/releases/latest",
+  "notes": "Each AI provider (Claude, DeepSeek, Kimi, OpenAI) now keeps its own separate API key, so switching between them no longer overwrites whatever key you had saved."
 }
