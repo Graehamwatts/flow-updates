@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
+  "version": "1.10.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Meeting auto-detect for Zoom and Teams, per-app writing styles, and groundwork for the new dashboard."
+  "notes": "Meeting recording now confirms it started with a sound and a notification, optional screen recording during meetings, and archive/delete for old recordings."
 }
