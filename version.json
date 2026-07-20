@@ -1,5 +1,5 @@
 {
-  "version": "1.12.1",
+  "version": "1.13.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "The new dashboard (preview) is now included in the installer with a Start Menu shortcut, and it has a light theme now to match the classic app."
+  "notes": "Writing Style now has its own tab instead of living inside Settings. The new dashboard Settings page is now organized into General/Transcription/AI Polish/Voice/Meetings/Sounds tabs, and a new cloud transcription option: Deepgram."
 }
