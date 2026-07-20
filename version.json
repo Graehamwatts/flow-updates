@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
+  "version": "1.12.1",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "New option for meeting video: capture just the meeting window (Zoom/Teams/Webex) instead of the whole screen, using a modern capture method that correctly shows video content instead of a black rectangle."
+  "notes": "The new dashboard (preview) is now included in the installer with a Start Menu shortcut, and it has a light theme now to match the classic app."
 }
