@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.10.1",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Meeting recording now confirms it started with a sound and a notification, optional screen recording during meetings, and archive/delete for old recordings."
+  "notes": "The new dashboard now has sound previews and a Start with Windows toggle, closing the gap with the classic settings window."
 }
