@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1",
+  "version": "1.11.2",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "Better explanation of the optional Identify speakers add-on right on the Meetings page - what it does, how big it is, and how it works."
+  "notes": "Fixed: the Delete, Archive, and Identify speakers buttons on the Meetings page were nearly invisible due to a layout bug. Also a visual polish pass on the new dashboard."
 }
