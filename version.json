@@ -1,5 +1,5 @@
 {
-  "version": "1.14.0",
+  "version": "1.16.0",
   "url": "https://github.com/Graehamwatts/flow/releases",
-  "notes": "New: turn any meeting recording into a short narrated podcast MP3 you can save to your phone."
+  "notes": "One app, one UI now: Settings, Meetings, Podcast, and everything else all live in a single dashboard opened from the tray icon."
 }
